@@ -1,4 +1,4 @@
-package utils
+package gotools
 
 import (
 	"crypto/aes"
